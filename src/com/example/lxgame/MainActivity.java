@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 	/** Called when the user clicks the Send button */
 	public void startGame(View view) {
 	    // Do something in response to button
-		Intent intent = new Intent(this, DisplayMessageActivity.class);
+		//Intent intent = new Intent(this, DisplayMessageActivity.class);
 	}
 
 }
