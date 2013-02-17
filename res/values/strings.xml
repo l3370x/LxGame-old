@@ -6,7 +6,8 @@
     <string name="hello_world">Press Start!</string>
     <string name="start_button">Start!</string>
     <string name="title_activity_game">GameActivity</string>
-    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_button">Save</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="add_button">Count</string>
 
 </resources>
